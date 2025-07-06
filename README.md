@@ -69,7 +69,10 @@ Or just drag the file into your browser window.
 
 ## 📸 Screenshots
 
-*will be added once I am done <3*
+[homepage](screenshot_coffee_1.gif)
+[shop section](screenshot_coffee_2.gif)
+[blog section](screenshot_coffee_3.gif)
+[about E contact section](screenshot_coffee_4.gif)
 
 ---
 
